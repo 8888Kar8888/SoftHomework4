@@ -1,0 +1,12 @@
+{
+  "name": "CypressProject",
+  "version": "1.0.0",
+  "devDependencies": {
+    "cypress": "*",
+    "cypress-xpath": "^2.0.1",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "chai": "^5.1.0"
+  }
+}
